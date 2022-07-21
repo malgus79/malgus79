@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 
 
 ## 📈 My github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malgus79&show_icons=true&theme=tokyonight" alt="malgus79" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malgus79&show_icons=true&theme=tokyonight&hide=stars" alt="malgus79" />
