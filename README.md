@@ -19,6 +19,8 @@ Uso programación orientada a objetos (POO) para el desarrollo de aplicaciones m
 Me considero una persona autónoma con capacidad analítica y resolutiva, así como la capacidad de interactuar en un ambiente de trabajo en equipo y alcanzar los objetivos propuestos. Me atraen los retos nuevos y dinámicos orientados a resultados.-
 
 </br>
+</p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="180" />
 
 ## 📲 Contáctame
 - LinkedIn **www.linkedin.com/in/maldonado-gustavo-perfil-url**
