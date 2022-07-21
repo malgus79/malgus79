@@ -20,13 +20,13 @@ Me considero una persona autónoma con capacidad analítica y resolutiva, así c
 
 </br>
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="250" height="180" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="300" height="150" />
                                    
 
 ## 📲 Contáctame
-- LinkedIn **www.linkedin.com/in/maldonado-gustavo-perfil-url**
-- Mail **gamcba7982@gmail.com**
-- Portfolio **https://sites.google.com/view/miportafolio-developermobile/inicio**
+- [LinkedIn](www.linkedin.com/in/maldonado-gustavo-perfil-url)
+- [Email](gamcba7982@gmail.com)
+- [Portfolio](https://sites.google.com/view/miportafolio-developermobile/inicio)
 
 </br>
 </samp>  
