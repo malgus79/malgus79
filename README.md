@@ -20,7 +20,8 @@ Me considero una persona autónoma con capacidad analítica y resolutiva, así c
 
 </br>
 </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="180" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="250" height="180" />
+                                   
 
 ## 📲 Contáctame
 - LinkedIn **www.linkedin.com/in/maldonado-gustavo-perfil-url**
