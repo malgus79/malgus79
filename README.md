@@ -18,8 +18,6 @@ Me considero una persona autónoma con capacidad analítica y resolutiva, así c
 
 </br>
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="280" height="150" />
-                                   
 
 ## 📲 Contáctame
 - [Portfolio](https://sites.google.com/view/miportafolio-developermobile/inicio)
@@ -58,6 +56,7 @@ Me considero una persona autónoma con capacidad analítica y resolutiva, así c
 </br>
 
 
+                                   
 
 <!--
 **malgus79/malgus79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,3 +77,9 @@ Here are some ideas to get you started:
 
 ## 📈 My github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malgus79&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="malgus79" />
+
+  
+    
+
+  
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="330" height="168" />
