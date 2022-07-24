@@ -82,4 +82,4 @@ Here are some ideas to get you started:
     
 
   
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="330" height="168" />
+
