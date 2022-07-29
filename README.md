@@ -22,6 +22,7 @@ Me considero una persona autónoma con capacidad analítica y resolutiva, así c
 ## 📲 Contáctame
 - [Portfolio](https://sites.google.com/view/miportafolio-developermobile/inicio)
 - [LinkedIn](https://linkedin.com/in/maldonado-gustavo-perfil-url)
+- [CV](https://4pld.short.gy/lin3Qc)
 - gamcba7982@gmail.com
 
 
