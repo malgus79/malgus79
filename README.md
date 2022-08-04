@@ -2,8 +2,7 @@
 Hola a todos, bienvenidos..!!
 <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-      
-      
+            
    ![Git logo malgus](https://user-images.githubusercontent.com/101361708/180096231-323449a8-333e-4f97-b191-658b1f359fd7.png)
    
  <img src="https://gpvc.arturio.dev/gusmaldonado" alt="Profile views" align='center'/><a href="https://github.com/malgus79"> </a>
