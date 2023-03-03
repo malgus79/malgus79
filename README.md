@@ -11,9 +11,7 @@ Hola a todos, bienvenidos..!!
 </br>
 <samp>
 
-Mi nombre es Gustavo y mi objetivo es ayudar a empresas y clientes a lograr sus objetivos haciendo lo que realmente me gusta, el desarrollo móvil.
-
-Uso programación orientada a objetos (POO) para el desarrollo de aplicaciones móviles nativas Android utilizando lenguaje Kotlin y Android Studio, patrones de arquitectura MVVM y Clean Architecture.
+Mi nombre es Gustavo, uso programación orientada a objetos (POO) para el desarrollo de aplicaciones móviles nativas Android utilizando lenguaje Kotlin y Android Studio, patrones de arquitectura MVVM y Clean Architecture.
 
 Apasionado por el mundo de la programación, me entusiasman proyectos nuevos, busco adquirir todo tipo de conocimientos, aunque no sean de mi área. Siempre intento encontrar la mejor solución posible a cada problema analizando todos los puntos de vistas y finalmente retroalimentar mis aptitudes a cada aprendizaje experimentado.
 
