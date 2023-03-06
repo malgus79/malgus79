@@ -1,11 +1,7 @@
 <h1 align="center">
 Hola a todos, bienvenidos..!!
 <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-            
-   ![Git logo malgus](https://user-images.githubusercontent.com/101361708/180096231-323449a8-333e-4f97-b191-658b1f359fd7.png)
-      
-      
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h1>
  <img src="https://gpvc.arturio.dev/gusmaldonado" alt="Profile views" align='center'/><a href="https://github.com/malgus79"> </a>
 <br/>
 </br>
@@ -18,16 +14,16 @@ Apasionado por el mundo de la programación, me entusiasman proyectos nuevos, bu
 </br>
 </p>
 
+</br>
+</samp> 
+
 ## 📲 Contáctame
 - [Portfolio](https://sites.google.com/view/miportafolio-developermobile/inicio)
 - [LinkedIn](https://linkedin.com/in/maldonado-gustavo-perfil-url)
 - [CV](https://4pld.short.gy/lin3Qc)
 - gamcba7982@gmail.com
-
-
 </br>
 </samp>  
-
 
 ## 👨🏻‍💻 Lenguajes de programación
 
@@ -54,9 +50,6 @@ Apasionado por el mundo de la programación, me entusiasman proyectos nuevos, bu
 <img alt="postman" src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 </br>
-
-
-                                   
 
 <!--
 **malgus79/malgus79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
